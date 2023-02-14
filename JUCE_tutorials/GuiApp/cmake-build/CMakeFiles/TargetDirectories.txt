@@ -1,0 +1,3 @@
+/Users/aderwent/Documents/shitsAndGiggs/JUCE_tutorials/GuiApp/cmake-build/CMakeFiles/GuiAppExample.dir
+/Users/aderwent/Documents/shitsAndGiggs/JUCE_tutorials/GuiApp/cmake-build/CMakeFiles/edit_cache.dir
+/Users/aderwent/Documents/shitsAndGiggs/JUCE_tutorials/GuiApp/cmake-build/CMakeFiles/rebuild_cache.dir

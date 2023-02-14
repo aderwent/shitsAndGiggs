@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+f29105c2673ee4d9046fa899086d0300 GuiAppExample_artefacts/JuceLibraryCode/GuiAppExample/PkgInfo
